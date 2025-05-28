@@ -198,6 +198,7 @@
 | 1                 |  衍生   |
 
 </div>    
+
   default  
   ```sas  
   bigcatyn = 0 ;  
@@ -226,7 +227,8 @@
 | 0                 | 不衍生  |
 | 1                 |  衍生   |
 
-</div>    
+</div> 
+
   default  
   ```sas  
   testyn = 0 ;  
