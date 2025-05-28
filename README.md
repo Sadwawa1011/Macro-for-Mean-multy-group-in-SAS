@@ -60,7 +60,7 @@
 
 ## var
   定量分析变量，如年龄（age）。
-  default
+  调用：
   ```sas
   var = age ;
   ```
