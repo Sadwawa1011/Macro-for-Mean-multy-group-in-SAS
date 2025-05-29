@@ -87,12 +87,12 @@
   备注：排序：按照调用时填写的文本分类顺序呈现。可与[group_delimiter](#group_delimiter)联合使用。
 
 ## group_delimiter
-    组别（分类）变量，调用[group_txt](#group_txt)时，指定特定的分类文本分隔符。
-    default  
-    ``` 
-    group_delimiter = %str();  
-    ```
-    备注：中文逗号建议不作为分隔符，非ASCⅡ字符的处理目前存在一些特殊问题。
+  组别（分类）变量，调用[group_txt](#group_txt)时，指定特定的分类文本分隔符。
+  default  
+  ``` 
+  group_delimiter = %str();  
+  ```
+  备注：中文逗号建议不作为分隔符，非ASCⅡ字符的处理目前存在一些特殊问题。
 
 ## group_misstxt
   组别（分类）分类变量的`缺失值填补文本`。
